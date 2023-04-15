@@ -1,6 +1,6 @@
 # Linear gradient generator
 
-![Python](https://img.shields.io/static/v1?message=3.x&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![Python](https://img.shields.io/static/v1?message=3.*&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
 Generates gradients between N-dimensional points with a certain separation. Example application with RGB colors:
 
