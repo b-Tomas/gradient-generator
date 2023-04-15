@@ -30,3 +30,5 @@ def example(length):
 ```
 
 Take a look at `gradient.py` for the details on the API and at `gradient_examples.py` for usage examples.
+
+Run the examples with `python3 gradient_examples.py` on a terminal capable of printing color. I haven't tested any other than Gnome Terminal.
